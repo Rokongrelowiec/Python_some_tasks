@@ -1,0 +1,6 @@
+# fibonacci
+
+Two version of the fibonacci sequence made by various methods.
+The first starts with: 0, 1, 1, 2, 3, 5, ...
+The second starts with: 1, 1, 2, 3, 5, ... 
+
